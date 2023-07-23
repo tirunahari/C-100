@@ -1,0 +1,11 @@
+img {
+    height: 300;
+    width: 320;
+    margin-left: 650px;
+}
+button {
+    background-color: lavender;
+    height: 40px;
+    width: 70px;
+    font-weight: bold;
+}
